@@ -30,7 +30,7 @@ def search_cliques(adj_matrix, ord):
     return cliques
 
 
-def computePersistentHomology(data, radii):
+def computeVoids(data, radii):
     dist_matrix = pairwise_distances(data)
     filtration = [[tuple([i]) for i in range(dist_matrix.shape[0])]]
 
