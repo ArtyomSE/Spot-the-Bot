@@ -1,0 +1,59 @@
+epsilon = 0.001
+0: 77405  words (63%)     46260 lemmas (60%)
+1: 38462  words (31%)     6328  lemmas (16%)
+
+epsilon = 0.002 									(выбор №2)
+0: 59020  words (48%)     40617 lemmas (69%)
+1: 60848  words (50%)     12461 lemmas (20%)
+
+epsilon = 0.003 									(выбор №1)
+0: 47678  words (39%)     36227 lemmas (76%)
+1: 74165  words (60%)     17169 lemmas (23%)
+
+epsilon = 0.004
+0: 40265  words (33%)     32726 lemmas (81%)
+1: 82085  words (67%)     20750 lemmas (25%)
+
+epsilon = 0.005
+0: 35281  words (29%)     29888 lemmas (85%)
+1: 87224  words (71%)     23620 lemmas (27%)
+
+epsilon = 0.01
+0: 22442  words (18%)     20683 lemmas (92%)
+1: 100184 words (82%)     32876 lemmas (33%)
+
+epsilon = 0.02
+0: 12827  words (10%)     12215 lemmas (95%)
+1: 109742 words (89%)     41290 lemmas (38%)
+
+epsilon = 0.03
+0: 8749   words (7%)      8423  lemmas (96%)
+1: 113890 words (93%)     45140 lemmas (40%)
+
+epsilon = 0.04
+0: 6531   words (5%)      6323  lemmas (97%)
+1: 116090 words (95%)     47225 lemmas (41%)
+
+epsilon = 0.05
+0: 5181   words (4%)      5042  lemmas (97%)
+1: 117459 words (96%)     48522 lemmas (41%)
+
+epsilon = 0.06
+0: 4255   words (3%)      4149  lemmas (98%)
+1: 118408 words (97%)     49435 lemmas (42%)
+
+epsilon = 0.07
+0: 3596   words (3%)      3511  lemmas (98%)
+1: 119071 words (97%)     50077 lemmas (42%)
+
+epsilon = 0.08
+0: 3020   words (2%)      2951  lemmas (98%)
+1: 119643 words (98%)     50633 lemmas (42%)
+
+epsilon = 0.09
+0: 2629   words (2%)      2568  lemmas (98%)
+1: 120033 words (98%)     51015 lemmas (43%)
+
+epsilon = 0.1
+0: 2273   words (2%)      2218  lemmas (98%)
+1: 120382 words (98%)     51358 lemmas (43%)
