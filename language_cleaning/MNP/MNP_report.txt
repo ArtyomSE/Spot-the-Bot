@@ -1,0 +1,35 @@
+gamma = 0.1
+Length of words list:   108831 (90.0%)    68402 lemmas (62.9%)
+Length of rubbish list: 12092  (10.0%)    1718  lemmas (14.2%)
+
+gamma = 0.2
+Length of words list:   96739  (80.0%)    63712 lemmas (65.9%)
+Length of rubbish list: 24184  (20.0%)    6408  lemmas (26.5%)
+
+gamma = 0.3
+Length of words list:   84647  (70.0%)    57223 lemmas (67.6%)
+Length of rubbish list: 36276  (30.0%)    12897 lemmas (35.6%)
+
+gamma = 0.4
+Length of words list:   72554  (60.0%)    50066 lemmas (69.0%)
+Length of rubbish list: 48369  (40.0%)    20054 lemmas (41.5%)
+
+gamma = 0.5
+Length of words list:   60462  (50.0%)    41588 lemmas (68.8%)
+Length of rubbish list: 60461  (50.0%)    28532 lemmas (47.2%)
+
+gamma = 0.6
+Length of words list:   48370  (40.0%)    32494 lemmas (67.2%)
+Length of rubbish list: 72553  (60.0%)    37626 lemmas (51.9%)
+
+gamma = 0.7
+Length of words list:   36277  (30.0%)    22939 lemmas (63.2%)
+Length of rubbish list: 84646  (70.0%)    47181 lemmas (55.7%)
+
+gamma = 0.8
+Length of words list:   24185  (20.0%)    13756 lemmas (56.9%)
+Length of rubbish list: 96738  (80.0%)    56364 lemmas (58.3%)
+
+gamma = 0.9
+Length of words list:   12093  (10.0%)    6211  lemmas (51.4%)
+Length of rubbish list: 108830 (90.0%)    63909 lemmas (58.7%)
