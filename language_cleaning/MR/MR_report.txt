@@ -1,0 +1,47 @@
+Quantile of 0.05 level: 3.0
+Length of words list:   160691 (77.3%)     64278 lemmas (40.0%)
+Length of rubbish list: 47237  (22.7%)     5198  lemmas (11.0%)
+
+Quantile of 0.25 level: 4.0
+Length of words list:   132707 (63.8%)     60131 lemmas (45.3%)
+Length of rubbish list: 75221  (36.2%)     9345  lemmas (12.4%)
+
+Quantile of 0.4 level:  5.0
+Length of words list:   115272 (55.4%)     56946 lemmas (49.4%)
+Length of rubbish list: 92656  (44.6%)     12530 lemmas (13.5%)
+
+Quantile of 0.5 level:  6.0
+Length of words list:   103012 (49.5%)     54355 lemmas (52.8%)
+Length of rubbish list: 104916 (50.5%)     15121 lemmas (14.4%)
+
+Quantile of 0.55 level: 8.0
+Length of words list:   86567  (41.6%)     50259 lemmas (58.1%)
+Length of rubbish list: 121361 (58.4%)     19217 lemmas (15.8%)
+
+Quantile of 0.6 level:  9.0							(выбор №2)
+Length of words list:   80683  (38.8%)     48570 lemmas (60.2%)
+Length of rubbish list: 127245 (61.2%)     20906 lemmas (16.4%)
+
+Quantile of 0.75 level: 20.0 							(выбор №1)
+Length of words list:   50498  (24.3%)     37857 lemmas (75.0%)
+Length of rubbish list: 157430 (75.7%)     31619 lemmas (20.1%)
+
+Quantile of 0.8 level:  29.0
+Length of words list:   40996  (19.7%)     33335 lemmas (81.3%)
+Length of rubbish list: 166932 (80.3%)     36141 lemmas (21.7%)
+
+Quantile of 0.85 level: 49.0
+Length of words list:   30916  (14.9%)     27450 lemmas (88.8%)
+Length of rubbish list: 177012 (85.1%)     42026 lemmas (23.7%)
+
+Quantile of 0.9 level:  104.0
+Length of words list:   20752  (10.0%)     19295 lemmas (93.0%)
+Length of rubbish list: 187176 (90.0%)     50181 lemmas (26.8%)
+
+Quantile of 0.95 level: 293.0
+Length of words list:   10383  (05.0%)     9946  lemmas (95.8%)
+Length of rubbish list: 197545 (95.0%)     59530 lemmas (30.1%)
+
+Quantile of 0.975 level: 621.8
+Length of words list:   5199   (02.5%)     5031  lemmas (96.8%)
+Length of rubbish list: 202729 (97.5%)     64445 lemmas (31.8%)
