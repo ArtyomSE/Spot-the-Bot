@@ -8,7 +8,7 @@ Current repository contains materials for "Spot the Bot" research
 .
 ├── data                                   # data of research
 │   ├── Russian                            # data for computation of embeddings for Russian
-│   │   ├── Russian_corpus_processed.txt[https://drive.google.com/file/d/1-8ifLbr7TU3gm6gE-zSH-APhEc3t4RkR/view?usp=sharing] # processed literature corpus of Russian
+│   │   ├── [Russian_corpus_processed.txt][https://drive.google.com/file/d/1-8ifLbr7TU3gm6gE-zSH-APhEc3t4RkR/view?usp=sharing] # processed literature corpus of Russian
 │   │   ├── Russian_good_words             # correct lexemes of corpus
 │   │   ├── Russian_garbage_words          # incorrect lexemes of corpus
 │   │   ├── Russian_dict_SVD_1000.npy[https://drive.google.com/file/d/1X3TuzG2f9pPXyKR2eQ6LHvrlXjH31U6B/view?usp=sharing]    # SVD dictionary of length 1000
