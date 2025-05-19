@@ -34,7 +34,7 @@ Repository structure:
 │   │   │   └── rubbish.txt                # lexemes considered to be incorrect by algorithm
 │   │   └── MR_report.txt                  # quality of model with various parameter
 │   ├── MNP                                # Median Neighbour Popularity data
-│   │   ├── {gamma}                        # results for algorithm with parameter {gamma}:
+│   │   ├── {gamma}                        # results for algorithm with parameter {gamma}
 │   │   │   ├── words.txt                  # lexemes considered to be correct by algorithm
 │   │   │   └── rubbish.txt                # lexemes considered to be incorrect by algorithm
 │   │   └── MNP_report.txt                 # quality of model with various parameter
